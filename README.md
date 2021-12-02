@@ -1,5 +1,5 @@
 # clash-of-clan-member-stat-getter
-A python program can get all clan member's status through clashratings.com
+A python program can get all clan member's hero status(at now) through clashratings.com
 
 Version info
 Python             3.10.0
